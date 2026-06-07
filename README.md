@@ -1,0 +1,2 @@
+# Autentications
+Armazenar autenticações.
